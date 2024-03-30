@@ -1,4 +1,4 @@
 [theme]
-base = "light"
-primaryColor = "green"
+base = "dark"
+primaryColor = "yellow"
 font = "monospace"
